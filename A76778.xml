@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Black Munday: or, A full and exact description of that great and terrible eclipse of the sun which will happen on the 29. day of March 1652. beginning 48. minutes after 8. a clock in the forenoon, and ending 17. minutes after 11. in which time the sun will be almost totally darkened (as at the Passion of our Saviour) and the stars appear in the firmament in the day time. Also an astrologicall conjecture of the terrible effects that will probably follow thereupon, according to the judgment of the best astrologers: it threatens the fall of some famous kings or princes, and men in authority: malice, hatred, uncharitablenesse, cruell wars and bloodshed, house-burnings, great robberies, thefts, plundering and pillaging, rapes, depopulation, violent and unexpected deaths, famine, plague, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76778</idno>
+            <idno type="STC">Wing B3044</idno>
+            <idno type="STC">Thomason E650_5</idno>
+            <idno type="STC">ESTC R205815</idno>
+            <idno type="EEBO-CITATION">99865077</idno>
+            <idno type="PROQUEST">99865077</idno>
+            <idno type="VID">166005</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166005)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E650[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Black Munday: or, A full and exact description of that great and terrible eclipse of the sun which will happen on the 29. day of March 1652. beginning 48. minutes after 8. a clock in the forenoon, and ending 17. minutes after 11. in which time the sun will be almost totally darkened (as at the Passion of our Saviour) and the stars appear in the firmament in the day time. Also an astrologicall conjecture of the terrible effects that will probably follow thereupon, according to the judgment of the best astrologers: it threatens the fall of some famous kings or princes, and men in authority: malice, hatred, uncharitablenesse, cruell wars and bloodshed, house-burnings, great robberies, thefts, plundering and pillaging, rapes, depopulation, violent and unexpected deaths, famine, plague, &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Ley, at Paul's Chain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a title-page woodcut.</note>
+                  <note>Annotation on Thomason copy: "December 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Solar eclipses --  1652 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166005:1" rendition="simple:additions"/>
+            <p>BLACK MUNDAY: <hi>OR,</hi> A full and exact deſcription of that great and terrible Eclipſe of the Sun which will happen on the 29. day of March 1652. beginning 48. minutes after 8. a clock in the forenoon, and ending 17. minutes after 11. in which time the Sun will be almoſt totally darkened (as at the Paſſion of our Saviour) and the Stars appear in the Fir<g ref="char:EOLhyphen"/>mament in the day time.</p>
+            <p>Alſo an Aſtrologicall conjecture of the terrible Effects that will probably follow thereupon, according to the judgment of the beſt Aſtro<g ref="char:EOLhyphen"/>logers: It threatens the fall of ſome famous Kings or Princes, and Men in authority<g ref="char:punc">▪</g> Malice, Hatred, Uncharitableneſſe, cruell Wars and Bloodſhed<g ref="char:punc">▪</g> Houſe-burnings, great Robberies, Thefts, Plundering and Pillaging, Rapes, Depopulation, violent and unexpected Deaths, Famine, Plague, &amp;c.</p>
+            <q>
+               <bibl>Joel 2.3.</bibl>
+               <p>A day of darkneſſe and of gloomineſſe, a day of clouds and of thick dark<g ref="char:EOLhyphen"/>neſſe—there hath not been ever the like, neither ſhall be any more after it, even to the yeers of many generations.</p>
+            </q>
+            <figure>
+               <head>The true Figure of the Eclipſe.</head>
+               <p>North.</p>
+               <p>South.</p>
+               <p>Eaſt.</p>
+               <p>Weſt.</p>
+               <figDesc>depiction of the solar eclipse (supposed to occur on 29 March 1652) including a sword, withered plant, skull, and crossed bones, all symbols of the death and destruction occasioned by the solar eclipse</figDesc>
+            </figure>
+            <p>
+               <add>December 5<hi rend="sup">th</hi>
+               </add> 
+               <hi>London:</hi> Printed for <hi>William Ley, at</hi> PAUL'S Chain. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166005:2"/>
+            <pb n="1" facs="tcp:166005:2"/>
+            <head>A deſcription of that great Eclipſe of the Sun, which will be on the 29. of March next enſuing, 1652.</head>
+            <p>TAking into conſideration this notable Eclipſe, which will be of the Sun, when I conſidered with my ſelf the dire and fearful accidents which may happen unto this Nation, it ſtruck me with aſtoniſhment; yet to give the world ſatisfaction, I thought good to write (as neer as I can) the true deſcription of this grand Eclipſe. You have heard of that remarkable dark <hi>Saturday,</hi> which was on the 25. of February, 1598. 'twas much about the ſame time of the day that this happens with us in 1652, though many re<g ref="char:EOLhyphen"/>member that, yet I am confident not any man living ever ſaw a greater then this.</p>
+            <p>And we may well call it <hi>Black-Munday.</hi> Firſt, in regard it hapneth upon a Munday. Secondly, in regard of the effects it bringeth along with it: for this diſmall day (wherein the Sun ſhall ſuffer a totall E<g ref="char:EOLhyphen"/>clipſe to our imagination) ſo dark and terrible it will be, that the Stars will be ſeen at noon day. It ſhall happen on the 29. day of March next, beginning at eight of the clock, and indore till after eleven.</p>
+            <p>Now I have ſhewed you the time, give me leave to tell you of the ſad events that come thereby: it is the Precurſor of great calamities and miſchiefs that ſhall happen to the people and places concerned in it, eſpecially all <hi>Europe,</hi> and more particularly <hi>England;</hi> this Eclipſe falls out in the fiery triplicity in <hi>Aries,</hi> (the aſcendent of <hi>England</hi>) and the very degree of his Exaltation, <hi>Mars</hi> having principall govern<g ref="char:EOLhyphen"/>ment and dominion their, and in the Angle following the Eclipſe, and ſo is Lord thereof, ſo that the effects muſt neceſſarily be of his quality <hi>(evil) Mars</hi> being an enemy to mankind, and to all things that are good: it is the terribleſt Ecclipſe that hath been ſeen in our daies; yea it will be a greater then that ominous Eclipſe of the Sun
+<pb n="2" facs="tcp:166005:3"/>that wil fal out in the year 1654. howbeit never ſince the eldeſt man born did there appear two ſuch Eclipſes in England in ſo ſhort a time; and as they are great and terrible, ſo it is as miraculous an Eclipſe, as that was at the time of our <hi>Saviours Paſſion,</hi> for that in many remarkable reſpects too ſadly agrees with this; and caſt back your eys upon the Scripture, how diſmall a ſight was there, when <hi>there was darkneſſe on all the Land, from the ſixth hour till the ninth, and the Vaile of the Temple was rent in twain,</hi> and what horrid calamities hapned to the Jews after that? how were they deſtroyed by <hi>Titus Veſpaſian?</hi> their Temples deſtroyed, defaced, and themſelves led into captivity? what alterations of govern<g ref="char:EOLhyphen"/>ment did there not happen? what bloodſhed, what murthers were there not perpetrated? how did they embroil their hands in one ano<g ref="char:EOLhyphen"/>thers bowells, Father againſt the ſon, and ſon againſt the Father, till there was none left? pray God avert thoſe calamities from theſe Na<g ref="char:EOLhyphen"/>tions, that are under the predominancy of theſe ruling Planets; for they preſage (if we may believe <hi>Origanus,</hi> and the beſt and moſt learned <hi>Aſtrologers</hi> moſt ſad and dire aſpects; for it threatens exile, captivity, or ſlaughter of ſome famous King, or great Potentate, and men in Authority, &amp;c. and great heart-burning between the common people and their Magiſtrates and Governours, with loſſe to both: what events have blazing ſtars produced formerly? the death of Kings and Princes, great Plagues and Earthquakes; we have ſeen it plentifully fullfill'd in our time, to the great terror and amazement of this King<g ref="char:EOLhyphen"/>dome, and other Nations adjacent; and although there may be a cauſe in nature, yet do they (by the will and appointment of God) foretell ſuch things as are the forerunners of the wrath of God; as the ſigns in the Ayr, which <hi>Joſephus</hi> mentioneth immediately before the deſtruction of <hi>Ieruſalem,</hi> and the horrible ſigns preceding the <hi>day of Iudgement:</hi> do but peruſe the <hi>Aſtrologers,</hi> and you find the ſad effects of <hi>Comets,</hi> &amp;c. did not there happen in 1631. a great Eclipſe of the Sun, and in 45. another Lunar Eclipſe, moſt of them hapning in the eighth houſe, termed by <hi>Aſtrologers, domus mortis; Mars</hi> being (for the moſt part) predominant. In ſuch Eclpſes, ſurely if we would obſerve Gods threatning hand over us, we might ſee how God forewarns us by his inſtruments; nay we may expect military acts of great and fearfull conſequences in moſt parts of <hi>Europe,</hi> which ſhall produce ſcarſity of Doves and beaſts, deſtruction amongſt men, and the ruine of moſt ſtately Fabricks, and a great deſiciency of the fruits of the earth; that
+<pb n="3" facs="tcp:166005:3"/>there will be great things managed in the world is moſt certain, as to the infinite honor and fame of ſome, ſo to the great prejudice, if not conſumption of ſome other people and Nations: Affairs ſhall be acted under the notion of Religion, yet not without diſſimulation, and that hath been the peſt and bane of all undertakings, when Religion is made the ſtalking horſe to all deſigns and purpoſes. <hi>Mars</hi> his poſition is in <hi>Taurus,</hi> as his detriment doth teſtifie, and under the banner of conſcientious reformation ſhall the ſword bear ſway, which is and will be paramount: if it ſhould be demanded the time when, I anſwer, as thoſe precurrent meſſingers which uſher in the beginning of theſe ef<g ref="char:EOLhyphen"/>fects, we may expect them in <hi>Iune</hi> or <hi>Iuly</hi> this year, according to <hi>Her<g ref="char:EOLhyphen"/>mes</hi> in his 33. <hi>Aphoriſme, Saturno quidem tranſeunte ab uno ſigno in aliud, fiunt in coelo ſigna de natura ignis,</hi> coruſcations and fiery apparitions in the <hi>Ayre:</hi> this Conjunctions doth denote unto us, that the common people in moſt Countreys will uſurp Authority, and ſpurn at their Su<g ref="char:EOLhyphen"/>periors; but ſome mitigation doth <hi>Iupiter</hi> promiſe, that though the Sword rule, it ſhall ſeem rather juſtly to divide, then ravenouſly de<g ref="char:EOLhyphen"/>ſtroy: good grounds will be pretended, Juſtice as well as revenge in<g ref="char:EOLhyphen"/>tended in all the quarrells of the ſword, and viciſſitudes of things: Let me not be miſunderſtood, ſince nothing promiſes any ſupport to the tottering time-ſerving <hi>Levite:</hi> the Farmer (I am certain) envies his tithes, and eats his pigs at home; the generall part of the pretend<g ref="char:EOLhyphen"/>ed Clergy are male-conlent at the courſe of things, and do not yet ſee the over-ruling hand of God, nor will they teach men to aquieſce, but ſullenly ſtir up diſcontent, pretending religious ſuperlative ends.</p>
+            <p>Some begin to be aſhamed of their Scotch Covenant, which bound them to promote the honor and dignity of the King and his Succeſſors, <hi>ſubintelligitur,</hi> if they could not ſell him for money to promote their own.</p>
+            <p>
+               <hi>Sol</hi> (the Prince regent of heaven) who hath naturally the ſigni<g ref="char:EOLhyphen"/>fication of regality, worldly pomp and glory, is ecclipſed in the very degree of his exaltation, and in the regall houſe of heaven likewiſe.</p>
+            <p>Let thoſe tyrannicall powers of the world, who are limited with a <hi>non ultra poſſumus,</hi> who now culminate in their pride and power, expect ſo ſure an obſcuration accompanied with mutation, as not to be avoid<g ref="char:EOLhyphen"/>ed: the <hi>Moon</hi> (the Lady of the aſcendent) eclipſing the Sun in his own houſe, exaltation and triplicy: doth not this ſhew and declare, that inferiours, and men of men quality ſhall uſurp and eclipſe the glo<g ref="char:EOLhyphen"/>ry
+<pb n="4" facs="tcp:166005:4"/>of the great and mighty? Let me not be miſunderſtood, but let this be a caveat to all thoſe ſupreams whom this Eclipſe finds with the knotty Scepters of tyranny in their hands, be they Kings or other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p>We cannot deny but <hi>England</hi> is as much, if not more then any other Nation of <hi>Europe</hi> concerned in the effects of this <hi>ſolar</hi> Eclipſe. Lord of heaven and earth what wilt thou do with us, we are in thy hands as a ball to be toſſed to and fro: and as the clay in the hands of the Potter, thou canſt break us, and bruiſe us at thy pleaſure, if thou doſt take from us thoſe that ſit at the helm to guide our poor ſhip of the Common<g ref="char:EOLhyphen"/>wealth, I mean our Members of Parliament, of our Nobles, of our Gentry, of ſuch as commanded and governed, and ſuch as have not obey'd; but God thou knoweſt beſt what is fitteſt for us, and teach us to obey thy will, and be content with our Governours ſet over us; for re<g ref="char:EOLhyphen"/>gall Government is very nigh a period in all Nations, by the production of this Eclipſe a grandee falls to nothing: many grand Potentates are eclipſed, their glory ſhall be taken from them, and their honor laid in the duſt: the firſt, ſecond, or third moſt principall or greateſt Prince in <hi>Europe</hi> ſhall die e're 1654. or (during the continuance of the effects of this Eclipſe) ſhall ſuffer or be ſenſible of great calamities, intudes and devaſtations in a moſt miſerable way, or els the loſſe of all, or the greateſt part of his ancient patrimony. I much fear, e're time limited for termination of this Eclipſes effects, too many will be ſenſible of our judgement, for all the evills, the ſword, ſedition, famine, peſtilence, can do to <hi>Europe,</hi> may be expected from the effects of this Eclipſe. Oh that the Princes of <hi>Europe</hi> would learn to be wiſe from the book of the creatures, what the will of their God is, before their houſes be left deſolate before deſtruction comes as an armed man. What Kings and Governours are threatned by this Eclipſe, which will be ſo formidable to Europe? 'tis ſo, that all the Princes in Europe are threatned by it, yea all thoſe of the world where it is viſible and angular, together with <hi>Hogens Moghens, Illuſtriſimos,</hi> and <hi>Titilado's,</hi> I can hardly ſing a <hi>qui<g ref="char:EOLhyphen"/>etus eſt</hi> to the preſent times, I wiſh I could, I cannot flatter, neither dare I write what I think.</p>
+            <p>This puts me in mind of that <hi>miraculous Eclipſe</hi> of the <hi>Sun</hi> at the <hi>Paſſion</hi> of our <hi>Saviour,</hi> which in many remarkable reſpects too ſadly a<g ref="char:EOLhyphen"/>grees with this: For (as to the Poſition of <hi>Ieruſalem) Cancer</hi> then <hi>aſ<g ref="char:EOLhyphen"/>cended,</hi> and the very degree wherein <hi>Saturn</hi> is at the time of this <hi>Eclipſe,</hi>
+               <pb n="5" facs="tcp:166005:4"/>he alſo then <hi>Riſing</hi> with the <hi>Horoſcope,</hi> and in <hi>ſquare</hi> to both the <hi>Lumi<g ref="char:EOLhyphen"/>naries</hi> as at this time; the <hi>Sun</hi> being then in <hi>Aries</hi> directly <hi>Culminating,</hi> and the <hi>Moon</hi> in <hi>Libra</hi> oppoſing him: A heavy and dreadfull Poſition, it threatens the Exile, Captivity, or ſlaughter of ſome famous <hi>King</hi> or <hi>Prince,</hi> and <hi>Men in authority, &amp;c.</hi> Hatred, Malice, and all uncharitable<g ref="char:EOLhyphen"/>neſſe betwixt the <hi>Common People</hi> and their <hi>Magistrates</hi> or <hi>Governors,</hi> with Detriment, or Ruine to both; the motion of a great Army, cruell Warres, much bloodſhed, and peſtilent ſeditions, the ſacking of Cities and Towns, Houſe-burnings, Robberies, Thefts, Plundering and Pilla<g ref="char:EOLhyphen"/>ging, Rapes, Depopulations, violent and unexpected deaths, corrupti<g ref="char:EOLhyphen"/>on of the Air, putrefaction and ſcarcity of Fruits, Abortive Births, A<g ref="char:EOLhyphen"/>cute Feavers, Famine, the Plague, and generall Murrain amongſt Cat<g ref="char:EOLhyphen"/>tle; Pyracies, Ship-wrecks, and great fights by Sea as well as by Land, diſcontents, murmurings, and inſurrections, new Governments, new Religions, new Cuſtoms, new Laws. In a word, this Eclipſe, premon<g ref="char:EOLhyphen"/>ſtrates a generall madneſſe and confuſion to all ſuch Kingdoms, Com<g ref="char:EOLhyphen"/>mon-wealths, Countries, Cities and Towns as are under the diviſion of <hi>Aries, Libra, Cancer,</hi> and <hi>Capricorn, viz.</hi> England, Scotland, France, Germany, Denmark, Holland, Zeland, Suevia, Polonia, Granado, Bur<g ref="char:EOLhyphen"/>gundia the lower, Macedonia, Auſtria, Alſatia, Thracia, Greece, Saxony, and divers other Nations, (more particularly) the Cities and Towns of Naples, Tetraria, Florence, Padua, Brunſwick, Lisbone, Franckford, Vi<g ref="char:EOLhyphen"/>enna in Auſtria, Antwerp, Oxford, Brandenburg, Conſtantinople, Tu<g ref="char:EOLhyphen"/>nis, Venice, Genoa, Piſa, Millain, Vincentia, Berne, Lubeck, Magdeberge, Wittenberge, Gotlick, York, S. Andrews, and the Iſlands of Orcades, and many more, too large for my limits.</p>
+            <p>The continuance of the effects of this Eclipſe, is two years, 25. weeks, odd hours, from the 4th. day of <hi>August,</hi> 1652. untill the 6th. day of <hi>Ian. Anno Dom.</hi> 1954.</p>
+            <p>The quality of the events is known from the nature and quality of the ſign, in which the place of the Eclipſe is, from the place and na<g ref="char:EOLhyphen"/>ture of the ſign where any ſtationary ſuperiour Planet is, and from the quality of the ſign and places of the Planets, that hath-moſt dominion in the ſign of the Eclipſe, and the ſign of the Angle preceding the E<g ref="char:EOLhyphen"/>clipſe.</p>
+            <p>
+               <hi>Mars</hi> generally ſignifieth or threatneth miſchief to all in generall, which ſhall happen through extremity of drought; particularly, he cauſes much war, quarrells and bloudſhed, amongſt men of that life or
+<pb n="6" facs="tcp:166005:5"/>kind of profeſſion: therefore I expect little peace here, (nor in any o<g ref="char:EOLhyphen"/>ther part of the world (where there is war) where the Eclipſe ſhall extend its influence) by fair means or treaty: He excites men alſo to many robberies, ſpoiling, ſacking, and inſlaving each other, the wrath of Kings and great men, and troubles in generall to all manner or kinds of men: As alſo ſuddain death, ſickneſſes, and theſe chiefly, Tertian agues, or Feavers, and this ſhall be chiefly incident unto theſe of younger years, or in their prime or ſtrength of youth; there ſhall happen much choler and anger amongſt men, and from men of ſmall repute, they ſhall com<g ref="char:EOLhyphen"/>mit unlawfull things, and tranſgreſſe the Law; there ſhall alſo happen many combuſtions, man-ſlaughters, rapines, thefts and robberies.</p>
+            <p>His events in the Ayr ſhall be extream heat, and very warm winds, lightning and little rain.</p>
+            <p>In the Sea he ſhall cauſe deſtruction very often to ſhips, by mixt winds, or lightning, or ſuch like.</p>
+            <p>In Rivers he ſhall cauſe a ſcarcity of waters, and the drought of fountains.</p>
+            <p>And in things appertaining to the uſe of man, <hi>viz.</hi> beaſts and vege<g ref="char:EOLhyphen"/>tables, he ſhall cauſe a ſcarcity, there ſhall be much deſtruction or want of fruit, by reaſon they ſhall be ſcorched up with extremity of heat, or eaten with Locuſts and Caterpillers, or they ſhall be deſtroyed by winds, or nipt in the bud.</p>
+            <p>One word more in generall, <hi>Be wiſe therefore O ye Kings, be inſtructed O ye Iudges of the earth; ſerve the Lord with fear, and rejoyce in him with trembling:</hi> for the Sun being in his ſeat of Majeſty, is Eclipſed of his glory: therefore O ye Kings and Emperors be ye not puft up with high conceits of your dignities and honors, for your Scepters are gone, and Democarcy takes place: your mighty Hoſts ſhall be conſumed by the Sword, 'tis not your Kingdoms nor your high-born blood can pre<g ref="char:EOLhyphen"/>vent Gods revenging hand that is upon you, therefore repent in time, leſt his Judgements fall upon you, and utterly eradicate you.</p>
+            <p>A word to <hi>England;</hi> Oh <hi>England</hi> repent thee of thy ſins alſo, leſt God take away the floriſhing Goſpell, and remove the golden Candle<g ref="char:EOLhyphen"/>ſtick from among you, and give it to a more deſerving Nation.</p>
+            <closer>Soli Deo gloria.</closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
